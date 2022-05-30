@@ -1,0 +1,26 @@
+form{	
+	margin: 0 50 px;
+	width: 200 px;	
+	padding: 1 em;
+	border-radius: 20px;
+	background: #CEF6F9;	
+	border: 1px solid #DBD2D8 ;		
+	}
+label{	
+	display: inline-block;
+	width: 130px;
+	text-align: right;
+	font-weight: bold;
+	}
+div{					
+	margin-top: 1em;
+	}
+#btn{
+	margin-left: 200px;
+	}
+.error{
+	display: inline;
+	width: 300px;
+	color: red;
+	font-weight: bold;
+	}
